@@ -5,8 +5,8 @@ class HeaderImg extends React.Component {
     const style = {
       width: '100%',
       height: '500px',
-      clear: 'both',
-      margin: '0',
+      position: 'absolute',
+      zIndex: '-1000';
       textAlign: 'center',
       overflow: 'hidden'
     };
