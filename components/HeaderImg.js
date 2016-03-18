@@ -3,10 +3,10 @@ import React from 'react';
 class HeaderImg extends React.Component {
   render() {
     const style = {
-      width: '98%',
+      width: '100%',
       height: '500px',
       clear: 'both',
-      margin: '0 1% .5em',
+      margin: '0',
       text-align: 'center',
       overflow: 'hidden'
     };
