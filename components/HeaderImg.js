@@ -6,7 +6,7 @@ class HeaderImg extends React.Component {
       width: '100%',
       height: '500px',
       position: 'absolute',
-      zIndex: '-1000';
+      zIndex: '-1000',
       textAlign: 'center',
       overflow: 'hidden'
     };
