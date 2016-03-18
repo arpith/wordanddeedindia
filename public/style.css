@@ -30,15 +30,6 @@ img {
   max-width: 1800px;
 }
 
-.header-img{
-  width:98%;
-  height:500px;
-  clear:both;
-  margin: 0 1% .5em;
-  text-align: center;
-  overflow:hidden;
-}
-
 p, div, h1 {
   max-width: 100%;
   overflow-x: auto;
