@@ -5,7 +5,7 @@ class Headline extends React.Component {
     const style = {
       width: '40%',
       marginLeft: '60%',
-      marginTop: '250px',
+      marginTop: '200px',
       clear: 'both',
       float: 'left',
       color: 'white'
