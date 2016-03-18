@@ -3,7 +3,9 @@ import React from 'react';
 class Header extends React.Component {
   render() {
     const style = {
-      width: '20%'
+      width: '20%',
+      float: 'left',
+      color: 'white'
     };
     
     return (
