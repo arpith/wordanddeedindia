@@ -4,10 +4,9 @@ class Headline extends React.Component {
   render() {
     const style = {
       width: '40%',
-      marginLeft: '60%',
-      marginTop: '200px',
+      marginTop: '150px',
       clear: 'both',
-      float: 'left',
+      float: 'right',
       color: 'white'
     };
     
